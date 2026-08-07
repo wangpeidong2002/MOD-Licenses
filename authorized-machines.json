@@ -4,7 +4,7 @@
     {
       "machineHash": "SHA256:FD1F8CE715C256EFDCA53F23E95ABFE793E19C0D97A7B36E4FDFE3A2C3E83C89",
       "customer": "主机-001",
-      "enabled": false,
+      "enabled": true,
       "expiresOn": null,
       "features": ["MOD"]
     }
@@ -12,6 +12,6 @@
   "signature": {
     "algorithm": "PS256",
     "keyId": "mod-license-2026-01",
-    "value": "GKNqUMjb0iKMxwpcnSvUegvJhMXp41aHBvwmJ1LnkKuCC3EXZnS7CypGo+P4ye+lj/O6CWbaCgHCzURFb8fRV2Hv6I+wFSacDSMkDx6MlqA1qMIw7sVLShbO+fJpxH1unp+UP4ZVX9hIyCjfzrEp+nw03vahdvdFn/wO1h8assIZmi2kJUl9znXCPeHWHPZ0sKwnwzZsbxhziSqhfdI0GhnR2ZBb3/jIUqj38gRb98S4aXNi4mvHxAPxHZAiFw8XE6CfKUiFiLN64UFWLkih2w/jkoFgA5C0YBf+NmCxOaC0ZIdfbmVXOB17qGTwDu0LdxSspwEaaK8foikq6evr7JUzMJycoCoiQ9RHPwxDzYoWZvEYi/ioujz6CK+pPwE8wRVKB0BHpv+Pf3uchYW3ejwQ9TgdX46CpWpBBzt4Ap1glkx3JSJhn5ZLK8SfQbQusyKM4s2uK4L2gnOpat/Fsanbjxs5sCb5sau7h4bRzV4w0qTleJUsJCjUB4DoBRA4"
+    "value": "Kme2fyWUZRic0kI8M77IxmQqv1SBBK9bRXig6xWiLnnHS6X92qOzryfqaMsK9sjAczkq/S88EEspMmmeTyQSVylhzxDbQe9AXP4GMDUhdS1wSrQuPjIAdDBGEGD0Pgbm5AosQduldPIjTKrNq9QkTCnnZtEtxYKmUNtK+Q8eD9zjFT+GUBalZlRzqDjdjn1gIWS5CqskElAfb2RyN3VAX1h6wvWK6CFSncqqh2g26Oj+FTVDtXTTfVKAa5dEabzY0ac1WtQdzBsJm4HJd5fw6sgS29qbHnp8sR1CWb49K/gQ+fMiRUJi38Us4+nKPvLA0bVwP7yCwL3c6oqQ6VGzAc8YUJLQQnEpfSPVR5/yUphMZOA9/7TRP2Vcwl0nSCcaksMVYTtkqHv1GwI0l3IyE/VIufd62DUUI/Iw6vRYKXyPveqO8p4iEjYOEXm0LDSkK7K04J4LWodMo27fdC+x+kRpygofWT8YC5loyfB8aCCo72RjL0nz5elPeNYScnoQ"
   }
 }
