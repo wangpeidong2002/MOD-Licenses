@@ -8,5 +8,10 @@
       "expiresOn": null,
       "features": ["MOD"]
     }
-  ]
+  ],
+  "signature": {
+    "algorithm": "PS256",
+    "keyId": "mod-license-2026-01",
+    "value": "BjdG0r5xiIDGIkzODcmwWJTXpLHQ3i3kYX38k0aFp53SmoS9QT+Y7zqgD/l1SbkvRXHr4Psvw4u00faVOX+dsgzeNrjRmgUDdow38sgo+VgANd65zlberCeTK1aWx4HR3W6JVELfdBQ+bT83uXFWc+QozBDuB/4caq1STlRyqJX8Kn38oPdlTHQcV3d5r8IWrx6LFGdyz/oc59HzIvCJXm4oKDLqmRl6JqnD80GUFCh+pvSub5VSzwDbw2lzLf80nDvsiJC+5Se4D4WhDweR4kdu9dKzRhgJ6Y55a16k5u31ziFRHVezxc7NVrYNDORC7PIRLqWv0wgEdmPsMtoswd3EeSPkwupNFi7soRMz3ylfQ8VvJN8KAcUJMB6qm3euBQ9CZMpHHxfp4WScRsiWfHhLUodupD+zHRhi5/RPAz9sEV7W9q9HmsdM34weQejgAjVrYYnm8hRjaowt5ykiAX2H0siNrLipiOqrQB9xsnJ9aI4ditIywjaYLWPmo9r8"
+  }
 }
