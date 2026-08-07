@@ -5,7 +5,7 @@
       "machineHash": "SHA256:FD1F8CE715C256EFDCA53F23E95ABFE793E19C0D97A7B36E4FDFE3A2C3E83C89",
       "customer": "主机-001",
       "enabled": true,
-      "expiresOn": "2026-08-30",
+      "expiresOn": null,
       "features": ["MOD"]
     }
   ]
