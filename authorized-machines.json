@@ -7,11 +7,13 @@
       "enabled": true,
       "expiresOn": null,
       "features": ["MOD"]
+    },
+    {
+      "machineHash": "SHA256:5C8729B4C5A4BAA4A210C8D3D2103A8084C865EDCE1B12A2FC64E03478CDBCA9",
+      "customer": "wangpeidong2002",
+      "enabled": true,
+      "expiresOn": null,
+      "features": ["*"]
     }
-  ],
-  "signature": {
-    "algorithm": "PS256",
-    "keyId": "mod-license-2026-01",
-    "value": "BwpBAu8a2NBR3FT4gkBGAKAvBwTVr0OlY+xf7GxWIlPPOV5C7KJYLWJNUOl6RfffNR77ToTg6dRjKcfu5p73gOMhyDvZO7ILxTWXOKYJWLk5rTL3RnJx2PDx0CgfAdQYPlo0EAJDLC6c4qektO5mgNMr1dugy3WG649ewsAhF9meM60DEyYWA7QorC2wyVVxOS9TG/F5S4bFAgVWwcB5XN3Ym5Inaht4i/5Yt1YrRtVtEKEDDBi86QypSiVXLOizqitm66m3hBz6GIqfTFG9zmxteB16ABOPwsfkGhRL9T8GlGn5u2savQ1/Y0fQPCsF8719fv1UKB4tEgBuZLTYmxqVEKPRI1OkmZLt+hdleOgHNczZChbQRSKjn45N2MokVEkET/HAvujtCEnthml1vhe1ANB63xHjn2zDvHoMYJAl4doWkBUFeyAAi7M2Nps2AXowK7vaMVMpifGheviIKBwpYywytPu57+MDOyghI9w4deFIfBnDie9nofK6VA+K"
-  }
+  ]
 }
