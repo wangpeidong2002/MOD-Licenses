@@ -28,6 +28,13 @@
       "enabled": true,
       "expiresOn": null,
       "features": ["*"]
+    },
+    {
+      "machineHash": "SHA256:D9B61A255BF3E3CFD0F980D30A20C140C9DBF560A7DA2FA7D83CB4F8E21337D3",
+      "customer": "王娇",
+      "enabled": true,
+      "expiresOn": null,
+      "features": ["*"]
     }
   ]
 }
