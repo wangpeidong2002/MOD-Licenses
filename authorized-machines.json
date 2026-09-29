@@ -21,6 +21,13 @@
       "enabled": true,
       "expiresOn": null,
       "features": ["*"]
+    },
+    {
+      "machineHash": "SHA256:4369A8A44E5FAE906EAC96CEE810F72E3369E32E2DEDF6D37C1EE1B4FDC7C68A",
+      "customer": "何强",
+      "enabled": true,
+      "expiresOn": null,
+      "features": ["*"]
     }
   ]
 }
